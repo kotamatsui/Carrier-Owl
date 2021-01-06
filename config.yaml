@@ -3,9 +3,10 @@ subject: 'cat:cs.LG' OR 'cat:cs.AI' OR 'cat:cs.CV' OR 'cat:cs.CL'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        transfer learning: 1
+        domain adaptation: 1
+        continual learning: 1
+        meta learning: 1
 
 # 通知の閾値
 score_threshold: 0
